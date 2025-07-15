@@ -4,6 +4,11 @@ This guide shows you how to manufacture a double layer PCB with vias and through
 [![Video Guide](https://img.youtube.com/vi/V7wXKYrV5ao/0.jpg)](https://www.youtube.com/watch?v=V7wXKYrV5ao)
 ## Bill of Materials:
 ### Equipment Needed
+
+<p align="center">
+  <img src="Images/Enclosure.jpg" width="300"/>
+</p>
+
 | Name | Description | Amount | Vendor |
 | :---: | :---: | :---: | :---: |
 | ComMarker B4 20W | Fiber laser engraver | 1 | [ComMarker](https://commarker.com/product/b4-laser-engraver/) |
@@ -27,4 +32,4 @@ See the [Laser Engraver SOP Notion page](https://brave-paprika-311.notion.site/L
 - [Stephen Hawes](https://youtu.be/wAiGCyZZq6w?feature=shared)
 - [Electronoobs](https://youtu.be/PoYcjyghDx4?feature=shared)
 
-This guide is brought to you by Teresa Perez and Bill Yen
+This guide is brought to you by [Teresa Perez](https://www.linkedin.com/in/teresa23perez/) and [Bill Yen](billyen33.com)
