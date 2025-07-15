@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MAX14661ETI_T")(type "KiCad")(uri "${KIPRJMOD}/lib/MAX14661ETI_T/MAX14661ETI_T.kicad_sym")(options "")(descr ""))
+  (lib (name "LTC2497CUHF_TRPBF")(type "KiCad")(uri "${KIPRJMOD}/lib/LTC2497CUHF_TRPBF/LTC2497CUHF_TRPBF.kicad_sym")(options "")(descr ""))
+  (lib (name "FDC2212")(type "KiCad")(uri "${KIPRJMOD}/lib/FDC2212DNTT/KiCADv6/2025-02-26_07-48-49.kicad_sym")(options "")(descr ""))
+  (lib (name "MCP6241UT_E_LT")(type "KiCad")(uri "${KIPRJMOD}/lib/MCP6241UT_E_LT/KiCADv6/2024-09-16_21-07-43.kicad_sym")(options "")(descr ""))
+  (lib (name "TL071CP")(type "KiCad")(uri "${KIPRJMOD}/lib/TL071CP/TL071CP.kicad_sym")(options "")(descr ""))
+  (lib (name "LM27762DSSR")(type "KiCad")(uri "${KIPRJMOD}/../kicad_lib/LM27762DSSR/LM27762DSSR.kicad_sym")(options "")(descr ""))
+  (lib (name "PE42540F-Z")(type "KiCad")(uri "${KIPRJMOD}/../kicad_lib/PE42540F-Z_PSE/2025-03-04_20-15-12.kicad_sym")(options "")(descr ""))
+  (lib (name "XTAL_FC-135_EPS")(type "KiCad")(uri "${KIPRJMOD}/../kicad_lib/XTAL_FC-135_EPS/KiCADv6/2025-03-11_21-49-19.kicad_sym")(options "")(descr ""))
+  (lib (name "NCS20061SN3T1G")(type "KiCad")(uri "${KIPRJMOD}/lib/NCS20061SN3T1G.kicad_sym")(options "")(descr ""))
+  (lib (name "INA826")(type "KiCad")(uri "${KIPRJMOD}/lib/INA826AID/KiCADv6/2024-09-16_21-20-29.kicad_sym")(options "")(descr ""))
+)

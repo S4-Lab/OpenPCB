@@ -1,0 +1,106 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "3361P-1-202GLF" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "VR" (id 0) (at 2.54 5.08 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "3361P-1-202GLF" (id 1) (at 2.54 3.81 0)
+      (effects (font (size 1.27 1.27)) (justify top left))
+    )
+    (property "Footprint" "3361P-1-202GLF:TRIM_3361P-1-202GLF" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "PARTREV" "08/19" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "Bourns" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MAXIMUM_PACKAGE_HEIGHT" "5.84mm" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "STANDARD" "Manufacturer Recommendations" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "3361P-1-202GLF_0_0"
+      (polyline
+        (pts (xy 5.08 0.0) (xy 4.318 0.0)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 4.318 0.0) (xy 3.81 -1.016)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 3.81 -1.016) (xy 2.54 1.27)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 2.54 1.27) (xy 1.27 -1.016)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.27 -1.016) (xy 0.0 1.27)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.0 1.27) (xy -1.27 -1.016)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.27 -1.016) (xy -2.54 1.27)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -2.54 1.27) (xy -3.81 -1.016)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -3.81 -1.016) (xy -4.318 0.0)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -4.318 0.0) (xy -5.08 0.0)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts
+          (xy 0.508 2.54)
+          (xy -0.508 2.54)
+          (xy 0.0 1.27)
+          (xy 0.508 2.54)
+        )
+        (stroke (width 0.0254)) (fill (type outline))
+      )
+      (text "CLOCKWISE" (at -4.1275 -2.54 0)
+        (effects (font (size 0.762 0.762)) (justify top left))
+      )
+      (polyline
+        (pts (xy 2.8575 -2.8575) (xy 4.7625 -2.8575)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts
+          (xy 4.7625 -2.54)
+          (xy 4.7625 -3.175)
+          (xy 5.715 -2.8575)
+          (xy 4.7625 -2.54)
+        )
+        (stroke (width 0.0254)) (fill (type outline))
+      )
+      (pin passive line (at 7.62 0.0 180.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -7.62 0.0 0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 0.0 5.08 270.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)

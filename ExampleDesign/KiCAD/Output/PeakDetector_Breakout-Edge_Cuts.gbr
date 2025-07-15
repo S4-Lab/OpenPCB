@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.2*%
+%TF.CreationDate,2025-07-15T11:24:56-07:00*%
+%TF.ProjectId,PeakDetector_Breakout,5065616b-4465-4746-9563-746f725f4272,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.2) date 2025-07-15 11:24:56*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X130000000Y-85852000D02*
+X155956000Y-85852000D01*
+X155956000Y-103992000D01*
+X130000000Y-103992000D01*
+X130000000Y-85852000D01*
+M02*

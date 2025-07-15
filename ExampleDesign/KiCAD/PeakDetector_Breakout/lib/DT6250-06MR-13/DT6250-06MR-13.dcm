@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DT6250-06MR-13
+D ESD Suppressors / TVS Diodes TVS Low Cap ESD 0.32pF 5V 4A 10Vc
+K
+F https://www.diodes.com//assets/Datasheets/DT6250-06MR.pdf
+$ENDCMP
+#
+#End Doc Library
