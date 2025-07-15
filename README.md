@@ -7,11 +7,13 @@ This guide shows you how to manufacture a double layer PCB with vias and through
 | :---: | :---: | :---: | :---: |
 | ComMarker B4 20W | Fiber laser engraver | 1 | [ComMarker](https://commarker.com/product/b4-laser-engraver/) |
 | ComMarker Fume Extractor-100W | Extracts fumes from the enclosure | 1 | [ComMarker](https://commarker.com/product/commarker-fume-extractor-100w/) |
-| 24V LED strip | Illuminates the inside of the enclosure | 1 | [Amazon](https://www.amazon.com/dp/B0D8L9HJXN) |
-| TP4056 Lithium Battery Charging Board | Ensures battery is charging/discharging at proper conditions | 1 | [Amazon](https://www.amazon.com/gp/product/B00LTQU2RK/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) |
-| GUVA-S12SD | Breakout board for an analog UV sensor | 1 | [Adafruit](https://www.adafruit.com/product/1918) |
-| S7V8F3 | Provides regulated 3.3v from battery voltage to power the system | 1 | [Pololu](https://www.pololu.com/product/2122) |
-| Rocker Switch | Turns overall device on or off | 1 | [DigiKey](https://www.digikey.com/en/products/detail/e-switch/RA812C1121/3778076?utm_adgroup=Rocker%20Switches&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Switches_NEW&utm_term=&utm_content=Rocker%20Switches) |
+| 24V LED Strip | Illuminates the inside of the enclosure | 1 | [Amazon](https://www.amazon.com/dp/B0D8L9HJXN) |
+| 24V Warning Light | Indicates the machine is on for general compliance purposes | 1 | [Amazon](https://www.amazon.com/dp/B06XKLY1N2) |
+| UV Curing Light | UV light for curing soldermask ink | 1 | [Amazon](https://www.amazon.com/dp/B075GWKN83) |
+| 1/16" Sheet Aluminum | Sheet metal for the enclosure | 1 | [McMaster-Carr](https://www.mcmaster.com/products/aluminum-extrusions/shape~sheet/multipurpose-6061-aluminum-sheets-and-bars-7/) |
+| Self-Centering Vise | Vise for holding the PCB centered in the rig | 1 | [Amazon](https://www.amazon.com/dp/B0CKW946NN) |
+| M5x6 mm Shoulder Bolts 5 pcs | Locating screws for the vise | 1 | [Amazon](https://www.amazon.com/dp/B077GX37SX) |
+| Aluminum Tape | Tape for sealing around the enclosure to prevent light from exiting | 1 | [Amazon](https://www.amazon.com/Aluminum-Ductwork-Temperature-Insulation-Adhesive/dp/B0B6NDFXPN/ref=sr_1_1_sspa?sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 
 
 
