@@ -24,6 +24,7 @@ This guide shows you how to manufacture a double layer PCB with vias and through
 See the [Laser Engraver SOP Notion page](https://brave-paprika-311.notion.site/Laser-Engraver-SOP-2229387ccfca80dc991dc07f11edf8c1?source=copy_link) on how to fabricate your own PCBs!
 
 ## Credit
-- source 1
-- source 2
+- [Stephen Hawes](https://youtu.be/wAiGCyZZq6w?feature=shared)
+- [Electronoobs](https://youtu.be/PoYcjyghDx4?feature=shared)
+
 This guide is brought to you by Teresa Perez and Bill Yen
