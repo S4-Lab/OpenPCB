@@ -1,7 +1,12 @@
 # 💥OpenPCB: Manufacturing Double Layer PCBs Using Commodity Laser Engraver💥
 This guide shows you how to manufacture a double layer PCB with vias and through holes using a relatively low cost (<$2k) commodity fiber laser engraver (ComMarker B4 20W). We provide custom enclosure design files to improve the safety of the engraver as well as 3D-printable clamp rigs to enable repeatable lasing operations on both sides of the PCB with minimal tuning.
 ## Video Guide:
-[![Video Guide](https://img.youtube.com/vi/V7wXKYrV5ao/0.jpg)](https://www.youtube.com/watch?v=V7wXKYrV5ao)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=V7wXKYrV5ao">
+    <img src="https://img.youtube.com/vi/V7wXKYrV5ao/0.jpg" alt="Video Guide">
+  </a>
+</p>
+
 ## Bill of Materials:
 ### Equipment Needed
 
