@@ -7,8 +7,7 @@ This guide shows you how to manufacture a double layer PCB with vias and through
   </a>
 </p>
 
-## Bill of Materials:
-### Equipment Needed
+## Equipment Needed:
 
 <p align="center">
   <img src="Images/Enclosure.jpg" width="300"/>
