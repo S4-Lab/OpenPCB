@@ -14,6 +14,7 @@ This guide shows you how to manufacture a double layer PCB with vias and through
 | Self-Centering Vise | Vise for holding the PCB centered in the rig | 1 | [Amazon](https://www.amazon.com/dp/B0CKW946NN) |
 | M5x6 mm Shoulder Bolts 5 pcs | Locating screws for the vise | 1 | [Amazon](https://www.amazon.com/dp/B077GX37SX) |
 | Aluminum Tape | Tape for sealing around the enclosure to prevent light from exiting | 1 | [Amazon](https://www.amazon.com/Aluminum-Ductwork-Temperature-Insulation-Adhesive/dp/B0B6NDFXPN/ref=sr_1_1_sspa?sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
-
-
-
+| Safety Shield | Front door | 1 | [ComMarker](https://commarker.com/product/laser-engraver-enclosure-green/?utm_source=Google%20Shopping&utm_campaign=Google%20Shopping%20Feed%20US&utm_medium=cpc&utm_term=23539&gad_source=1&gad_campaignid=21084642396&gbraid=0AAAAAqD6U5Hp8d97pg5T4UTTmunvMlgEU&gclid=Cj0KCQjw-NfDBhDyARIsAD-ILeC8pDan2KiLlLADY5TseprIdRYGhm98cP78Yc0IAMmq2-XbsZg_NHcaAm9cEALw_wcB)
+| Metric Bolt Assortment | Use M5 for general assembly. M3 for hinges | 1 | [Amazon](https://www.amazon.com/dp/B0CF9HRPC8) 
+| Neodymium Magnets | Door latching | 1 | [Amazon](https://www.amazon.com/dp/B0CF9HRPC8) |
+| Trash Bag | Back opening sealer | 1 | [Amazon](https://www.amazon.com/Glad-ForceFlex-Kitchen-Pine-Sol-Original/dp/B0D6CWK6F9/ref=sr_1_3_sspa?crid=5R2B6UYB47ME&dib=eyJ2IjoiMSJ9.L7lzwJ7FSDRUV-HmHDK3y1Pb2_EUIoTHHzdCQtD415yel2aLij75bSLqcW84EfRqn-jszuEkq57lRTnM5KtSEl34UnSsr0zT5cMXwAO7aCYf9FdHl-0u_dra-MiqyeoemIPHIJ2zwIb8MGofQbn2d3ybZqIKfhLvVKX0ist--CTJOdxzY1T8KQOokAvh_QZZOSk4s67wYPl9tNKWXDk2zGQtNKydY3OgjQTBVWAoy7tpKaH_IIWrAWKgWBABSgjXrvKzyy11tvM3QKLakqQeiqWeFO7voVIYK97dFNKF1g8.U8PH-uSUzZQAuDlWCfxipwKteU5tKV7bkj7nphp5fe4&dib_tag=se&keywords=trash+bag&qid=1752606252&sprefix=trash+bag%2Caps%2C190&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) |
