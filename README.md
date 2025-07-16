@@ -36,4 +36,4 @@ See the [Laser Engraver SOP Notion page](https://brave-paprika-311.notion.site/L
 - [Stephen Hawes](https://youtu.be/wAiGCyZZq6w?feature=shared)
 - [Electronoobs](https://youtu.be/PoYcjyghDx4?feature=shared)
 
-This guide is brought to you by [Teresa Perez](https://www.linkedin.com/in/teresa23perez/) and [Bill Yen](billyen33.com)
+This guide is brought to you by [Teresa Perez](https://www.linkedin.com/in/teresa23perez/) and [Bill Yen](https://billyen33.com)
